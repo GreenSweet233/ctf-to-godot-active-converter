@@ -4,8 +4,6 @@ Godot 4 编辑器插件：把 Clickteam Fusion 跑路导出的 **active 位置�
 
 > **只搬位置**：行为逻辑请自行复刻。
 
-本仓库：<https://github.com/GreenSweet233/ctf-to-godot-active-converter>
-
 ## 支持的数据
 
 | 来源               | 入口                                | 说明                                                                       |
