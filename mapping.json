@@ -1,0 +1,160 @@
+{
+	"mappings": {
+		"1500": {
+			"offset": [
+				6,
+				48
+			],
+			"scene": "res://mfspl/object/enemy/flying_hammer_bro.tscn"
+		}
+	},
+	"objectMappings": {
+		"SMW_Dark_Piranha(Solid)": {
+			"offset": [
+				0,
+				0
+			],
+			"scene": "res://mfspl/object/enemy/muncher.tscn"
+		},
+		"SMW_Dark_Piranha(Solid) (2)": {
+			"offset": [
+				0,
+				0
+			],
+			"scene": "res://mfspl/object/enemy/muncher_flip_v.tscn"
+		},
+		"刺猬（红）": {
+			"offset": [
+				0,
+				-13
+			],
+			"scene": "res://engine/object/enemy/spiny/spiny_red.tscn"
+		},
+		"地夹子": {
+			"offset": [
+				16,
+				16
+			],
+			"scene": "res://engine/object/enemy/spike/spike_piranha.tscn"
+		},
+		"封顶": {
+			"offset": [
+				16,
+				272
+			],
+			"scene": "res://engine/object/facility/solid_roof.tscn"
+		},
+		"布布鬼": {
+			"offset": [
+				0,
+				-15
+			],
+			"scene": "res://engine/object/enemy/boo/boo.tscn"
+		},
+		"板栗仔": {
+			"offset": [
+				1,
+				-15
+			],
+			"scene": "res://engine/object/enemy/goomba/goomba.tscn"
+		},
+		"炮台（正）": {
+			"offset": [
+				0,
+				-15
+			],
+			"scene": "res://engine/object/enemy/cannon/bill_cannon.tscn"
+		},
+		"砖块_普通": {
+			"offset": [
+				16,
+				16
+			],
+			"scene": "res://engine/object/block/brick.tscn"
+		},
+		"精致のActive": {
+			"offset": [
+				0,
+				0
+			],
+			"scene": "res://mfspl/object/enemy/enemy_hold_area.tscn"
+		},
+		"金币": {
+			"offset": [
+				16,
+				16
+			],
+			"scene": "res://engine/object/bonus/coin.tscn"
+		},
+		"锤子龟（火球，狙，飞行）": {
+			"offset": [
+				-5,
+				1
+			],
+			"scene": "res://mfspl/object/enemy/flying_fire_bro.tscn"
+		},
+		"锤子龟（锤子，高频，飞行）": {
+			"offset": [
+				-5,
+				1
+			],
+			"scene": "res://mfspl/object/enemy/flying_hammer_bro.tscn"
+		},
+		"长脖子食人花": {
+			"offset": [
+				-32,
+				-127
+			],
+			"scene": "res://mfspl/object/enemy/long_neck_piranha.tscn"
+		},
+		"问号(金币)": {
+			"offset": [
+				16,
+				16
+			],
+			"scene": "res://engine/object/block/question_block/question_block.tscn"
+		},
+		"食人花（粉，正向）": {
+			"offset": [
+				0,
+				-15
+			],
+			"scene": "res://engine/object/enemy/piranha/piranha_pink.tscn"
+		},
+		"食人花（绿，反向）": {
+			"offset": [
+				0,
+				15
+			],
+			"scene": "res://engine/object/enemy/piranha/piranha_green_down.tscn"
+		},
+		"食人花（绿，正向）": {
+			"offset": [
+				0,
+				-15
+			],
+			"scene": "res://engine/object/enemy/piranha/piranha_green.tscn"
+		}
+	},
+	"scenes": [
+		"res://mfspl/object/enemy/flying_hammer_bro.tscn",
+		"res://mfspl/object/enemy/flying_fire_bro.tscn",
+		"res://mfspl/object/enemy/enemy_hold_area.tscn",
+		"res://mfspl/object/enemy/long_neck_piranha.tscn",
+		"res://engine/object/bonus/coin.tscn",
+		"res://engine/object/enemy/boo/boo.tscn",
+		"res://engine/object/enemy/spiny/spiny_red.tscn",
+		"res://engine/object/block/brick.tscn",
+		"res://engine/object/enemy/goomba/goomba.tscn",
+		"res://engine/object/enemy/cannon/bill_cannon.tscn",
+		"res://engine/object/enemy/piranha/piranha_green.tscn",
+		"res://engine/object/block/question_block/question_block.tscn",
+		"res://engine/object/enemy/spike/spike_piranha.tscn",
+		"res://mfspl/object/enemy/muncher.tscn",
+		"res://mfspl/object/enemy/muncher_flip_v.tscn",
+		"res://engine/object/enemy/piranha/piranha_pink.tscn",
+		"res://engine/object/enemy/piranha/piranha_green_down.tscn",
+		"res://engine/object/facility/solid_roof.tscn"
+	],
+	"version": 2
+}
